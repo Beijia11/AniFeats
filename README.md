@@ -5,7 +5,7 @@
  <a href='https://igl-hkust.github.io/das/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
 
 
-![teaser](assets/teaser.gif)
+![teaser](teaser.gif)
 
 ## Quickstart
 
