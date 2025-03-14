@@ -1,10 +1,6 @@
 # AniFeats: Animate 3D Feature Meshes for Character Video Generation
 
 
- <a href='https://arxiv.org/abs/2501.03847'><img src='https://img.shields.io/badge/arXiv-2501.03847-b31b1b.svg'></a> &nbsp;
- <a href='https://igl-hkust.github.io/das/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
-
-
 ![teaser](teaser.pdf)
 
 ## Quickstart
