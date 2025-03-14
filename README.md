@@ -1,7 +1,7 @@
 # AniFeats: Animate 3D Feature Meshes for Character Video Generation
 
 
-[View Teaser](teaser.pdf)
+![teaser](teaser.pdf)
 
 ## Quickstart
 
